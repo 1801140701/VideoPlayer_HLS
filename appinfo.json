@@ -1,0 +1,13 @@
+{
+    "id": "lg-video-tv",
+    "version": "1.0.0",
+    "vendor": "SevenColours",
+    "type": "web",
+    "main": "./public/index.html",
+    "resolution": "1920x1080",
+    "title": "LG Video Tv",
+    "icon": "Lg-Player.png",
+    "largeIcon": "Lg-Player.png",
+    "bgColor": "#ffffff",
+    "disableBackHistoryApi" : true
+}
